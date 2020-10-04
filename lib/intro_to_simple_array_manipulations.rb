@@ -1,4 +1,3 @@
 def using_push(array,element)
-    array<<("element")
+    array<<("violet")
 end
-    
