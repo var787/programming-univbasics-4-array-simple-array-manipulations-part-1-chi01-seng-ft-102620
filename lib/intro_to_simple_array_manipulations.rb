@@ -1,3 +1,3 @@
-def using_push(array,element)
-    array<<("violet")
+def using_push(array,string)
+    array<<("string")
 end
