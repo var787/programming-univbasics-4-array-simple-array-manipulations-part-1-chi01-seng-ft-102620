@@ -6,6 +6,6 @@ def using_unshift(array,string)
     array.unshift("Staten Island")
 end
 
-def using_push(array,string)
-    array.push("string")
+def using_pop(array)
+    array.pop
 end
